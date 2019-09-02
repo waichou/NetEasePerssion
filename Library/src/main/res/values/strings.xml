@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Library</string>
+
+    <string name="permission_message_permission_failed">我们需要的一些权限被您拒绝或者系统发生错误申请失败，请您到设置页面手动授权，否则功能无法正常使用！</string>
+
+    <!-- 所有权限名称 -->
+    <string name="permission_location">定位</string>
+    <string name="permission_contact_person">访问联系人</string>
+    <string name="permission_sd_write">存储</string>
+    <string name="permission_phone_state">电话</string>
+    <string name="permission_take_photo">拍照</string>
+    <string name="permission_device_info">访问手机设备信息</string>
+
+    <string name="permission_error_tip_over23">权限获取失败，请允许%1$s权限！\n</string>
+</resources>

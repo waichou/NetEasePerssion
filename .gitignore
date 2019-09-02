@@ -1,0 +1,7 @@
+app/build/
+Library/build/
+.idea/
+Annotations/build/
+Complier/build/
+.gradle/
+local.properties
